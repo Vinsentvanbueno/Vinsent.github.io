@@ -1,7 +1,11 @@
+background-color {color: black}
+
 h1 {color: blanchedalmond;}
 h2 {color: blueviolet;}
 h3 {color: burlywood;}
 h4 {color: beige;}
+
+b {color: white;}
 
 p {color: white;
 	background-color: burlywood;}
