@@ -1,4 +1,18 @@
-h1 {color: red;}
+h1 {color: blanchedalmond;}
+h2 {color: blueviolet;}
+h3 {color: burlywood;}
+h4 {color: beige;}
+
+p {color: white;
+	background-color: burlywood;}
+i {color: salmon;
+	background-color: burlywood;}
+a {color: darkred;
+	background-color: beige;}
+dl {background-color: salmon;}
+dt {background-color: burlywood;}
+img {background-image: blue;}
+
 #cabeza1 {color: blue;}
 .cabeza2 {color: green;}
 
